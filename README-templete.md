@@ -1,6 +1,6 @@
 # Frontend Mentor - Loopstudios landing page solution
 
-This is a solution to the [Sunny](https://www.frontendmentor.io). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Sunny](https://www.frontendmentor.io). Frontend Mentor challenges help you improve your coding skills by building real projects. 
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ This is a solution to the [Sunny](https://www.frontendmentor.io). Frontend Mento
 
 
 ## Overview
-Static Web Apllication by front end mentor.
+Static Web Application by frontend mentor.
 
 ### The challenge
 
@@ -48,11 +48,11 @@ Users should be able to:
 
 ### What I learned
 
-While working through this project I practice GRID and also burguer menu JS.
+While working through this project I practice GRID and also burger menu JS.
 
 ### Continued development
 
-Areas that I want to continue focusing on in future projects is JavaScript and React.  
+Areas that I want to continue focusing on in future projects in JavaScript and React.  
 
 ## Author
 
